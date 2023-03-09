@@ -1,0 +1,4 @@
+﻿  raspr.cpp
+D:\ProgramFiles\raspr\raspr\raspr\raspr.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ProgramFiles\raspr\raspr\raspr\raspr.cpp(26,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  raspr.vcxproj -> D:\ProgramFiles\raspr\raspr\x64\Debug\raspr.exe
